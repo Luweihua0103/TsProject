@@ -6,7 +6,7 @@ import { Color, Mark } from "./enums";
 //   mark: Mark
 // }
 
-export type Deck = Card[];
+// export type Deck = Card[];
 
 
 export interface Card {
